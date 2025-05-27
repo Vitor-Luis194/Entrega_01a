@@ -1,1 +1,1 @@
-"Teste de cria‡Æo de arquivo numa branch" 
+"Teste de criacao de arquivo numa branch" 
